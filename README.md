@@ -1,3 +1,7 @@
+# **Completed and Archived in Winter 2018
+
+
+
 # Iterator Pattern
 ## **You *must* work in a group of two for this lab**
 
